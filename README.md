@@ -15,7 +15,7 @@ A simple calculator created to practice making GUI in python.
 Once Python and the PyQt5 library is installed and set up, simply double click the calculator.py.
 
 You can also test the calculator by downloading the executable from the following link
-https://drive.google.com/file/d/1FuM-O0BzIZGF_Xgzn3mTUJ3xdwhs3y8G/view?usp=sharing
+https://drive.google.com/file/d/1ln7Xd-4NRfzCfovGLVPzlG06L8dSvi9f/view?usp=sharing
 
 
 
